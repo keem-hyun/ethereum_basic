@@ -24,3 +24,7 @@
 ## create_node_network
 
 - 노드 네트워크 생성
+
+## transaction_practice
+
+- 잔고 관리와 트랜잭션 및 채굴자 보상 설정
